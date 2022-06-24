@@ -8,11 +8,7 @@
 - https://twitter.com/sirmooby
 
 ### 🔭 I’m currently working on:
-- KasuaShops
-- TradeGrub Mobile App (Android and iOS)
-
-### ⚡ Fun fact: 
-> I used to be a graphics designer, i ended up switching careers because graphics wasn't paying my bills 😄.
+- KsbTech
 
 <!--
 **moobydrey/moobydrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
